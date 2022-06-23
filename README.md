@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g19980115)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://raw.githubusercontent.com/g19980115/g19980115/main/assets/github-contribution-grid-snake.svg)
+
