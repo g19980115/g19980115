@@ -1,5 +1,7 @@
-### Hi there 👋
+###  &nbsp;&nbsp;&nbsp;&nbsp;Hi there 👋
 
+```
+```
 <!--
 **g19980115/g19980115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g19980115)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g19980115&show_icons=true&locale=en" alt="Night99" /></p>
 
 ![](https://raw.githubusercontent.com/g19980115/g19980115/main/assets/github-contribution-grid-snake.svg)
 
